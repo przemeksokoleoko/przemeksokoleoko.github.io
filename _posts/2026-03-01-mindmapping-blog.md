@@ -11,7 +11,7 @@ I've been thinking about a different format — using **mindmaps as the primary 
 
 <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.16"></script>
 
-<div class="markmap" style="height: 500px;">
+<div class="markmap" style="width: 100%;">
 
 # Mindmapping Blog
 
